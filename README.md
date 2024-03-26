@@ -4,11 +4,11 @@
 
 ## Steps to deploy streamlit app on AWS EC2
 
-## 1. Login with your AWS console and launch an EC2 instance
+1. Login with your AWS console and launch an EC2 instance
 
-## 2. Run the following commands
+2. Run the following commands
 
-### Note: Do the port mapping to this port:- 8501
+Note: Do the port mapping to this port:- 8501
 
 ```bash
 sudo apt update
@@ -47,6 +47,7 @@ pip3 install -r requirements.txt
 python3 -m streamlit run app.py
 ```
 
+URL of the project : 44.222.201.199:8501
 ```bash
 #Permanent running
 nohup python3 -m streamlit run app.py
