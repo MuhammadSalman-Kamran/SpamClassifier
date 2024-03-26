@@ -47,10 +47,11 @@ pip3 install -r requirements.txt
 python3 -m streamlit run app.py
 ```
 
-URL of the project : 44.222.201.199:8501
 ```bash
 #Permanent running
 nohup python3 -m streamlit run app.py
 ```
 
 Note: Streamlit runs on this port: 8501
+
+URL of the project : 44.222.201.199:8501
