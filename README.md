@@ -55,3 +55,5 @@ nohup python3 -m streamlit run app.py
 Note: Streamlit runs on this port: 8501
 
 URL of the project : 44.222.201.199:8501
+
+![alt text](https://github.com/MuhammadSalman-Kamran/SpamClassifier/blob/main/running_app.jpg)
