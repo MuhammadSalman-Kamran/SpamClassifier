@@ -35,7 +35,7 @@ def load_obj(file_path):
     except Exception as e:
         raise CustomException(e, sys)
     
-def processing(self, text):
+def processing(text):
         text = text.lower()
         text = nltk.word_tokenize(text)
         
