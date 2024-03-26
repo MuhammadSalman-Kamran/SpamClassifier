@@ -1,3 +1,3 @@
 # SpamClassifier
 
-## This is end-to-end SMS Spam Classifier
+## This is end-to-end SMS/Email Spam Classifier
